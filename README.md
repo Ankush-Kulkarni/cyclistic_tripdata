@@ -11,7 +11,7 @@ To determine how Casual riders and Annual members use cyclistic bike differently
 
 The data collected is from the company's website
  
-3.Process phase
+3. Process phase
 
 The data is cleaned from all the anomalies.
 
