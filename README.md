@@ -1,4 +1,4 @@
-# cyclistic_tripdata
+# cyclistic_divvy_tripdata
 This is Google Analytics capstone Project
 
 Cyclistic divvy bike Project
