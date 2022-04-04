@@ -21,7 +21,7 @@ Analyzed the data to find patterns, relationships and trends
 
 5. Share phase
 
-Using Tableau we created visualisations and are published here
+Using Tableau created visualisations and is published here https://public.tableau.com/views/GoogleDataAnalyticsProfessionalCertificateCapstoneProjectCyclistic-Divvy-Bikes/Yearly-comparision?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 6. Act phase
